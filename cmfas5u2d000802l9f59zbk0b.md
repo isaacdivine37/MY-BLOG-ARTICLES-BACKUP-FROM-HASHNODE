@@ -155,7 +155,7 @@ Your backend should be live at → `http://localhost:5050`
 
 ---
 
-### STEP 6) Configure Frontend Locally
+### STEP 5) Configure Frontend Locally
 
 Inside `/client`, create a `.env` file:
 
