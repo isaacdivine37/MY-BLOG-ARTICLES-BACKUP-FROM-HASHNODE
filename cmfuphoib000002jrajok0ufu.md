@@ -6,6 +6,7 @@ datePublished: Mon Sep 22 2025 05:49:05 GMT+0000 (Coordinated Universal Time)
 cuid: cmfuphoib000002jrajok0ufu
 slug: building-a-complete-monitoring-and-alerting-stack-with-prometheus-grafana-and-alertmanager
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1758263305117/b2c476e7-a726-4d47-bfa5-747aab6cd24b.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1758520374499/a1a73618-128f-4186-85fe-72cac09aa026.png
 tags: cloud, docker, kubernetes, cloud-computing, devops, prometheus, grafana, devops-articles, grafana-monitoring
 
 ---
